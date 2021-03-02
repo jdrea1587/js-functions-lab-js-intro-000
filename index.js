@@ -7,6 +7,6 @@ describe('functions', () => {
     })
   })
   */
-  happyHolidays(){
+  function happyHolidays(){
     return ("Happy holidays!")
   }
