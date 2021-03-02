@@ -8,6 +8,6 @@ describe('functions', () => {
   })
   */
   happyHolidays(){
-    return ('happyHolidays')
+    return ('Happy holidays')
   }
   
