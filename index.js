@@ -19,6 +19,6 @@ describe('happyHolidaysTo(name)', () => {
   })
 })
 */
-function happyHolidaysTo(){
-  return (`Happy holidays, ${you}!`)
+function happyHolidaysTo(name){
+  return (`Happy holidays, ${name}!`)
 }
